@@ -10,3 +10,6 @@ const audi = {
   year: 2005,
   color: 'white',
 };
+
+// tikriausiai šito nori?..
+console.log(Object.keys(audi));
